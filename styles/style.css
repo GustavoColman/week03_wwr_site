@@ -39,7 +39,16 @@ nav a:hover {
     margin: 0 auto;
 
 }
+h1{
+    font-family: 'lobster', sans-serif;
+}
+
 h2{ font-size: 3.0em;
+    font-family: 'lobster', sans-serif;
+}
+
+h4{
+    font-family: 'lobster', sans-serif;
 }
 
 p{ 
