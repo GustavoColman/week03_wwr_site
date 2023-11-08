@@ -246,3 +246,33 @@ footer a {
     opacity: 6;
     color:#6754d3;
 }
+
+
+
+
+
+.rivers_session {
+
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.rivers_contend {
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+
+}
+
+
+.river_option-img {
+    border: 10px solid #2ba3e4;
+    transition: transform .5s;
+    box-shadow: 5px 5px 10px white;
+
+}
+.river_option-img:hover {
+    opacity: 9;
+    transform: scale(1.1);
+}
